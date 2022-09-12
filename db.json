@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "name": "Rosalia Lindgren",
+      "dob": "1953-12-8",
+      "email": "Rosalia96@hotmail.com",
+      "username": "Rosalia41",
+      "password": "_Dh1ePcUSNLxo_P",
+      "phone": "887.790.5819",
+      "streetaddress": "73127 Mercedes Way",
+      "citystatezip": "Hughmouth, MN 23182",
+      "latitude": "58.9098",
+      "longitude": "-162.1455",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1108.jpg"
+    },
+    {
+      "name": "Ms. Zander Cruickshank",
+      "dob": "1970-9-21",
+      "email": "Zander_Cruickshank52@gmail.com",
+      "username": "Zander_Cruickshank85",
+      "password": "VOwgoy68Y_M6886",
+      "phone": "(968) 899-4062 x09655",
+      "streetaddress": "21599 Hirthe Skyway",
+      "citystatezip": "Port Mckenzie, OK 88350-9897",
+      "latitude": "-9.1004",
+      "longitude": "-67.1718",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/58.jpg"
+    },
+    {
+      "name": "Tom Moen",
+      "dob": "1968-5-20",
+      "email": "Tom_Moen49@hotmail.com",
+      "username": "Tom_Moen50",
+      "password": "GBoMsSu4RZ_GZuk",
+      "phone": "1-456-216-5057",
+      "streetaddress": "686 Guiseppe Track",
+      "citystatezip": "Port Van, HI 54546",
+      "latitude": "-70.9148",
+      "longitude": "57.3025",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/902.jpg"
+    },
+    {
+      "name": "Adela Greenholt",
+      "dob": "1957-8-18",
+      "email": "Adela.Greenholt@yahoo.com",
+      "username": "Adela_Greenholt",
+      "password": "0n2hhNZPPyx8LnD",
+      "phone": "1-778-989-5827 x97198",
+      "streetaddress": "688 Schoen Village",
+      "citystatezip": "Leopoldoshire, GA 92641",
+      "latitude": "67.4856",
+      "longitude": "1.9307",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/269.jpg"
+    },
+    {
+      "name": "Woodrow Feil",
+      "dob": "1947-8-8",
+      "email": "Woodrow.Feil68@gmail.com",
+      "username": "Woodrow9",
+      "password": "ldZUwS1KXeJHST4",
+      "phone": "1-662-771-4640 x3337",
+      "streetaddress": "9020 Marquardt Trail",
+      "citystatezip": "West Octavia, OH 43885",
+      "latitude": "37.2206",
+      "longitude": "168.4150",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/326.jpg"
+    },
+    {
+      "name": "Hyman Jacobs",
+      "dob": "1951-1-26",
+      "email": "Hyman.Jacobs@gmail.com",
+      "username": "Hyman47",
+      "password": "e7ByST4SrKR4z8L",
+      "phone": "(282) 488-8757 x81674",
+      "streetaddress": "187 Labadie Corner",
+      "citystatezip": "West Nicklausshire, SC 27604-6231",
+      "latitude": "-47.7252",
+      "longitude": "110.8772",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/652.jpg"
+    },
+    {
+      "name": "Carolyne Streich",
+      "dob": "1957-11-15",
+      "email": "Carolyne_Streich66@yahoo.com",
+      "username": "Carolyne.Streich",
+      "password": "vAci1MZt_Zc9Ece",
+      "phone": "1-859-597-4470 x36650",
+      "streetaddress": "7344 Feil Avenue",
+      "citystatezip": "Lake Arvillabury, TN 01127-8389",
+      "latitude": "-88.6988",
+      "longitude": "-74.7277",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/227.jpg"
+    },
+    {
+      "name": "Alexys Schneider",
+      "dob": "1962-9-3",
+      "email": "Alexys65@hotmail.com",
+      "username": "Alexys88",
+      "password": "z8wDFhCbaJnv3_X",
+      "phone": "1-338-377-2133",
+      "streetaddress": "468 Mitchell Pines",
+      "citystatezip": "Port Laurie, NE 72963-6714",
+      "latitude": "36.6716",
+      "longitude": "58.4954",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/997.jpg"
+    },
+    {
+      "name": "Oran Price",
+      "dob": "1955-12-11",
+      "email": "Oran.Price@yahoo.com",
+      "username": "Oran37",
+      "password": "T6uVrf2qsn44d9e",
+      "phone": "1-468-844-9493 x5964",
+      "streetaddress": "8958 Brady Estate",
+      "citystatezip": "Michelborough, GA 95654",
+      "latitude": "-1.7789",
+      "longitude": "-10.8770",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/648.jpg"
+    },
+    {
+      "name": "Jeffry Wyman",
+      "dob": "1989-6-12",
+      "email": "Jeffry.Wyman@gmail.com",
+      "username": "Jeffry46",
+      "password": "9vxXpHyh_V4ADMV",
+      "phone": "251-374-1465 x568",
+      "streetaddress": "6052 Aufderhar Groves",
+      "citystatezip": "South Andrew, CA 96268",
+      "latitude": "55.0005",
+      "longitude": "-90.4915",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/9.jpg"
+    },
+    {
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/842.jpg"
+    },
+    {
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/773.jpg"
+    }
+  ]
+}
